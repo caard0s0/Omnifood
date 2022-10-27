@@ -351,6 +351,7 @@
     width: 6.4rem;
     border-radius: 50%;
     margin-bottom: 1.2rem;
+    margin-left: 1.6rem;
 }
 
 .testimonial-text {
@@ -362,6 +363,7 @@
 .testimonial-name {
     font-size: 1.6rem;
     color: #6f6f6f;
+    margin-left: 1.6rem;
 }
 
 .gallery {
