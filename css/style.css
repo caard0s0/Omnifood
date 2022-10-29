@@ -1,8 +1,6 @@
 /*****************************/
 /* HEADER */
 /*****************************/
-
-
 .header {
     display: flex;
     justify-content: space-between;
@@ -22,8 +20,6 @@
 /*****************************/
 /* NAVIGATION */
 /*****************************/
-
-
 .main-nav-list {
     list-style: none;
     display: flex;
@@ -102,8 +98,6 @@
 /*****************************/
 /* HERO SECTION */
 /*****************************/
-
-
 .section-hero {
     background-color: #fdf2e9;
     padding: 4.8rem 0 9.6rem 0;
@@ -166,8 +160,6 @@
 /*****************************/
 /* FEATURED IN SECTION */
 /*****************************/
-
-
 .section-featured {
     padding: 4.8rem 0 3.2rem 0; 
 }
@@ -197,8 +189,6 @@
 /*****************************/
 /* HOW IT WORKS SECTION */
 /*****************************/
-
-
 .section-how {
     padding: 9.6rem 0;
 }
@@ -257,8 +247,6 @@
 /*****************************/
 /* MEALS SECTION */
 /*****************************/
-
-
 .section-meals {
     padding: 9.6rem 0;
 }
@@ -347,8 +335,6 @@
 /*****************************/
 /* TESTIMONIALS SECTION */
 /*****************************/
-
-
 .section-testimonials {
     background-color: #fdf2e9;
     display: grid;
@@ -411,8 +397,6 @@
 /*****************************/
 /* PRICING SECTION */
 /*****************************/
-
-
 .section-pricing {
     padding: 9.6rem 0;
 }
@@ -520,8 +504,6 @@
 /*****************************/
 /* CTA SECTION */
 /*****************************/
-
-
 .section-cta {
     padding: 4.8rem 0 12.8rem;
 }
@@ -597,8 +579,6 @@
 /*****************************/
 /* FOOTER */
 /*****************************/
-
-
 .footer {
     padding: 12.8rem 0;
     border-top: 1px solid #eee;

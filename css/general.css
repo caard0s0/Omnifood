@@ -1,8 +1,6 @@
 /*****************************/
 /* GENERAL STYLES */
 /*****************************/
-
-
 * {
     margin: 0;
     padding: 0;
@@ -184,8 +182,6 @@ body {
 
 
 /* HELPER/SETTINGS CLASSES */
-
-
 .margin-right-sm {
     margin-right: 1.6rem !important;
 }
